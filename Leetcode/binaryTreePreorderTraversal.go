@@ -2,14 +2,12 @@ package leetcode
 
 // https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/
 
-/**
- * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
- * }
- */
+type TreeNode struct {
+     Val int
+     Left *TreeNode
+     Right *TreeNode
+}
+
 func preorderTraversal(root *TreeNode) []int {
     vals  := make([]int, 0, 0)
     if root == nil {
