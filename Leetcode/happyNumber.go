@@ -15,7 +15,7 @@ func isHappy(n int) bool {
         }
         unique[num] = true
     }
-    return false
+    return true
 }
 
 func digitSquareSum(n int)int{
