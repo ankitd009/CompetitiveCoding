@@ -1,3 +1,5 @@
+package leetcode
+
 // https://leetcode.com/problems/happy-number
 
 func isHappy(n int) bool {
