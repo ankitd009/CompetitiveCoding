@@ -1,14 +1,6 @@
 package leetcode
 
-https://leetcode.com/problems/n-ary-tree-preorder-traversal
-
-/**
- * Definition for a Node.
- * type Node struct {
- *     Val int
- *     Children []*Node
- * }
- */
+// https://leetcode.com/problems/n-ary-tree-preorder-traversal
 
 func preorder(root *Node) []int {
     vals  := make([]int, 0, 0)
