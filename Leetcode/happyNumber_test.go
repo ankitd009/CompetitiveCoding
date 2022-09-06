@@ -11,7 +11,7 @@ func TestIsHappySuccess(t *testing.T){
 
 func TestIsHappyFailure(t *testing.T){
   res := isHappy(2)
-  if res {
+  if !res {
 	  t.Errorf("Expected: false, Got: %v", res)
   }
 }
