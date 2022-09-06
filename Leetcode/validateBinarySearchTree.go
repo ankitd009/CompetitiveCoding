@@ -1,3 +1,5 @@
+package leetcode
+
 // https://leetcode.com/problems/validate-binary-search-tree/submissions/
 
 /**

@@ -1,3 +1,5 @@
+package leetcode
+
 // https://leetcode.com/problems/fizz-buzz
 
 func fizzBuzz(n int) []string {

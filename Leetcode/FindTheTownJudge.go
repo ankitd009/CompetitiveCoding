@@ -1,6 +1,6 @@
+package leetcode
 // https://leetcode.com/problems/find-the-town-judge/submissions/
 
-package main
 
 import "fmt"
 

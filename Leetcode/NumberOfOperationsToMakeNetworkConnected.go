@@ -1,3 +1,5 @@
+package leetcode
+
 // https://leetcode.com/problems/number-of-operations-to-make-network-connected/submissions/
 
 // using union by rank and path compression

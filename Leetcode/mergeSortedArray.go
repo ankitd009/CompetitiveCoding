@@ -1,3 +1,5 @@
+package leetcode
+
 // https://leetcode.com/problems/merge-sorted-array/submissions/
 
 func merge(nums1 []int, m int, nums2 []int, n int)  {

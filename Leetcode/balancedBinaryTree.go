@@ -1,3 +1,5 @@
+package leetcode
+
 // https://leetcode.com/problems/balanced-binary-tree
 
 /**
