@@ -1,3 +1,7 @@
+package leetcode
+
+// https://leetcode.com/problems/two-sum/
+
 func twoSum(nums []int, target int) []int {
     freqMap := make(map[int]int)
     indexMap := make(map[int][]int)
