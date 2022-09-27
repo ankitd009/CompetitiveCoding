@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/set-mismatch
 
+package leetcode
+
 func findErrorNums(nums []int) []int {
     twice := -1
     missing := -1
